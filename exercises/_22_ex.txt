@@ -1,0 +1,79 @@
+print()                 function prints the specified message to the screen, or other standard output 
+
+#                       comment, this is so you can read your program later, leave notes for you and others
+
++                       plus, used for addition 
+
+-                       minus, used for subraction
+
+/                       divide, used for 
+
+*                       multiply, used for multriplication
+
+%                       percent
+
+<                       less-than
+
+>                       greater-than
+
+<=                      less-than-equal
+
+>=                      greater-than-equal
+
+variables               block of code which only runs when it is called. Can pass data, known as parameters, into a function. a function can return data as a result
+
+string                  an array of bytes representing unicode characters. Usually a bit of text you want to display to someone or "export" out of the program
+
+format (f)              allows for multiple substitutions and value formatting. 
+
+""" (text) """          works like a string, but allows you to put as many lines of text as you want until you type """ again.
+
+\\                      Escape backslash
+
+\'                      Escape single-quote
+
+\"                      Escape double-quote
+
+\a                      Escape ASCII bell (BEL)
+
+\b                      Escape ASCII backspace (BS)
+
+\f                      Escape ASCII formfeed (FF)
+
+\n                      Escape ASCII linefeed (LF)
+
+\N{name}                Escape character named name in the Unicaode databse (Unicode only)
+
+\r                      Escape carriage return (CR)
+
+\t                      Escape horizontal tab (TAB)
+
+\uxxxx                  Escape character with 16-bit hex value xxxx
+
+\Uxxxxxxxx              Escape character with 32-bit hex value xxxxxxxx
+
+\v                      Escape ASCII vertical tab (VT)
+
+\000                    Escape character with octal value 000
+
+\xhh                    Escape character with hex value hh
+
+input                   Feature that ask a user for some text input
+
+import                  To add features to your script from the python feature set
+
+argv                    A list in Python, which contains the command-line arguments passed to the script
+
+close                   Closes the opened file
+
+read                    Reads the contents of the file. You can assign the result to a variable
+
+readline                Reads just one line of a text file
+
+truncate                Empties the file
+
+write('text')           Writes and inputs data into the file
+
+seek(0)                 Moves teh read/write location to the beginning of the file
+
+def                     Function, defined by a def statement, is a block of code which only runs when its called. You can pass data into a function. Can return data as a result
