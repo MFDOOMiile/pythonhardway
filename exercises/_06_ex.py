@@ -1,3 +1,5 @@
+###~~~Strings & Text~~~###
+
 types_of_people = 10 #setting a value of 10 to types_of_people
 x = f"There are {types_of_people} types of people." #formatting a string and giving the string a value of x
 

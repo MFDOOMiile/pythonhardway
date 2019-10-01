@@ -1,3 +1,5 @@
+###~~~Strings, Bytes, & Character Encodings~~~###
+
 import sys
 script, input_encoding, error = sys.argv
 

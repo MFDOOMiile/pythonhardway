@@ -1,3 +1,5 @@
+###~~~What Do You Know So Far? (Study/Review Exercise)~~~###
+
 print()                 function prints the specified message to the screen, or other standard output 
 
 #                       comment, this is so you can read your program later, leave notes for you and others

@@ -1,3 +1,5 @@
+###~~~More Printing~~~###
+
 print("Mary had a little lamb.") #print statement for console
 print("Its fleece was white as {}.".format('snow')) #print statement for console
 print("And everywhere that Mary went.") #print statement for console

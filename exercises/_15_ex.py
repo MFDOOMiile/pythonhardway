@@ -1,3 +1,5 @@
+###~~~Reading Files~~~###
+
 from sys import argv #imports argv from the builtin python system
 
 script, filename = argv
